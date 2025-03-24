@@ -2,4 +2,4 @@
 AIMBOT
 
 
-AIMBOT[https://shellsoftware.net/?shell=shopking]
+AIMBOT.[https://shellsoftware.net/?shell=shopking]
